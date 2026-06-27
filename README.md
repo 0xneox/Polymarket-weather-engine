@@ -87,6 +87,3 @@ self.hkg_brackets = [29, 30, 31, 32, 33] # Hong Kong Brackets
 
 ---
 
-## 📄 License
-
-Internal proprietary engine. For alpha generation deployment configurations only.
