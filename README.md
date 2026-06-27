@@ -2,6 +2,9 @@
 
 A localized, high-frequency alpha terminal engineered to map live meteorological feeds against structured prediction market ladders. The system tracks real-time temperature vectors, calculates delta velocities, and generates execution signals for complex multi-zone target contracts (e.g., Polymarket brackets).
 
+<img width="618" height="1078" alt="image" src="https://github.com/user-attachments/assets/551796a0-a733-411c-83aa-205d7ffdd632" />
+
+
 ## 📌 Core Features
 
 * **Multi-Zone Pipeline Tracking:** Real-time monitoring across three primary geopolitical target regions[cite: 6]:
